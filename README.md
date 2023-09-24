@@ -1,9 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=QWERTY770&show_icons=true&theme=graywhite&count_private=true" /> 
 
-## 👋 Hi, I’m @QWERTY770, a Senior 1 student in Nanjing, interested in natural science and programming.
+## 👋 Hi, I’m @QWERTY770, a Senior 1 student, interested in natural science and programming.
 
 - 👀 I’m interested in chemistry, astronomy, physics and other fields of natural science.
-  - I'm also a Minecraft modder (both Forge/Fabric) and took part in [TeaCon 2022](https://www.teacon.cn).
 - 🌱 I’m currently preparing for CChO (Chinese Chemistry Olympiad), and learning more about data processing and game production.
 - 💞️ I’m looking forward to collaborating with you!
 - 📫 My accounts on other websites:
